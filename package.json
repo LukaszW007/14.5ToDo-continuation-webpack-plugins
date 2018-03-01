@@ -1,0 +1,38 @@
+{
+  "name": "16.4ToDo-Webpack-loaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszW007/16.4ToDo-Webpack-loaders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszW007/16.4ToDo-Webpack-loaders/issues"
+  },
+  "homepage": "https://github.com/LukaszW007/16.4ToDo-Webpack-loaders#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.3",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.10",
+    "html-webpack-plugin": "^3.0.3",
+    "optimize-js-plugin": "0.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "style-loader": "^0.20.2",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "uuid": "^3.2.1"
+  }
+}
