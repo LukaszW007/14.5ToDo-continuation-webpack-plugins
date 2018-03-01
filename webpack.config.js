@@ -2,6 +2,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const webpack = require('webpack');
 const UglifyJSPlugin = require('uglifyjs-webpack-plugin');
+const OptimizeJsPlugin = require('optimize-js-plugin');
 
 /*var plugins = [
     new HtmlWebpackPlugin({
@@ -45,8 +46,11 @@ module.exports = {
         filename: 'index.html',
         inject: 'body'
     }),
-        new webpack.optimize.UglifyJSPlugin()
-    ],
+        new webpack.optimize.UglifyJsPlugin(),
+        new OptimizeJsPlugin({
+            sourceMap: false
+        })
+    ]
 
 
 };
