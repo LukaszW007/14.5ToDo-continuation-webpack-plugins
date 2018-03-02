@@ -1,0 +1,12 @@
+.todoList{
+    list-style: none;
+}
+.list-item{
+    display: flex;
+}
+.id{
+    flex:1;
+}
+.text{
+    flex:9;
+}
