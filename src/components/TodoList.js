@@ -4,7 +4,7 @@ import styleList from  './TodoList.css';
 class TodoList extends React.Component {
     constructor (props) {
         super(props);
-        this.state = {
+        /*this.state = {
             data:
                 [{
                     id: 1,
@@ -16,14 +16,14 @@ class TodoList extends React.Component {
                     id: 3,
                     text: 'feed my cat'
                 }]
-        }
+        }*/
     }
 
     removeItem (itemId) {
     }
 
     render () {
-        const items = this.state.data.map(function (Todo) {
+        const items = this.props.data.map(function (Todo) {
             return (
                 <li className={styleList.listItem} >
                     <p className={styleList.id} >{Todo.id}. </p>

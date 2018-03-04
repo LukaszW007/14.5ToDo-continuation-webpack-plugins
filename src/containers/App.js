@@ -8,9 +8,24 @@ class App extends React.Component {
     constructor(props){
         super(props);
         this.state = {
-            data: []
+            data:
+                [{
+                    id: 1,
+                    text: 'clean room'
+                }, {
+                    id: 2,
+                    text: 'wash the dishes'
+                }, {
+                    id: 3,
+                    text: 'feed my cat'
+                }],
+            input:''
         };
     }
+    inputChange(event){
+        const inputValue = event.target.value;
+        this.setState({input:inputValue});
+}
     addTodo(val){
         const todo = {
             text: val,
@@ -20,14 +35,19 @@ class App extends React.Component {
         this.setState({data});
     }
     removeTodo(id){
-        const remainder = this.state.data.filter(todo => todo.id !==id);
+        const reminder = this.state.data.filter(todo => todo.id !==id);
         this.setState({data: reminder});
     }
     render(){
         return(
             <div className={style.TodoApp}>
+                <input type="text" value={this.state.input} onchange={this.inputChange}/>
+                <button
+                    className={'addItem'}
+                    onClick={this.addTodo(this.state.input)}
+                >Add item</button>
                 <Title numberOfItems={this.props.numberOfItems}/>
-                <TodoList/>
+                <TodoList data={this.state.data}/>
             </div>
         );
     }

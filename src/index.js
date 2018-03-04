@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './containers/App.js';
-import {AppContainer} from 'react-hot-loader';
+/*import {AppContainer} from 'react-hot-loader';
 
 
 if (module.hot){
@@ -14,9 +14,8 @@ if (module.hot){
             document.getElementById('app')
         );
     });
-}
-/*
+}*/
 ReactDOM.render(
     <App />,
     document.getElementById('app')
-);*/
+);
