@@ -19,21 +19,25 @@ class TodoList extends React.Component {
         }
     }
 
-    removeItem () {
-
+    removeItem (itemId) {
     }
 
     render () {
         const items = this.state.data.map(function (Todo) {
             return (
-                <li className={'list-item'} style={styleList.todoList}>
-                    <p className={'id'} style={styleList.id}>{Todo.id}</p>
-                    <p className={'text'} style={styleList.text}>{Todo.text}</p>
+                <li className={styleList.listItem} >
+                    <p className={styleList.id} >{Todo.id}. </p>
+                    <p className={styleList.text} >{Todo.text}</p>
+                    <button
+                        className={styleList.button}
+                        //onClick={this.removeItem(Todo.id)}
+                    >x</button>
+
                 </li>
             )
         });
         return (
-            <ul className = "todoList">{items}</ul>
+            <ul className = {styleList.todoList}>{items}</ul>
         )
 
     }

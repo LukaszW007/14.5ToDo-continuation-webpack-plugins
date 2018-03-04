@@ -1,12 +1,17 @@
 .todoList{
     list-style: none;
 }
-.list-item{
+.listItem{
     display: flex;
+    border: solid 1px #000000;
 }
 .id{
     flex:1;
 }
 .text{
     flex:9;
+}
+.button{
+    flex:1;
+    margin:0 auto;
 }
