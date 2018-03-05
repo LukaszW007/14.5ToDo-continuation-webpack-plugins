@@ -41,7 +41,7 @@ class App extends React.Component {
     render(){
         return(
             <div className={style.TodoApp}>
-                <input type="text" value={this.state.input} onchange={this.inputChange}/>
+                <input type="text" value={this.state.input} />
                 <button
                     className={'addItem'}
                     onClick={this.addTodo(this.state.input)}

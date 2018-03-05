@@ -17759,7 +17759,7 @@ var App = function (_React$Component) {
             return _react2.default.createElement(
                 'div',
                 { className: _App2.default.TodoApp },
-                _react2.default.createElement('input', { type: 'text', value: this.state.input, onchange: this.inputChange }),
+                _react2.default.createElement('input', { type: 'text', value: this.state.input }),
                 _react2.default.createElement(
                     'button',
                     {
