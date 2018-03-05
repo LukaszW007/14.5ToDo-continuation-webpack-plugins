@@ -17733,6 +17733,7 @@ var App = function (_React$Component) {
         key: 'inputChange',
         value: function inputChange(event) {
             var inputValue = event.target.value;
+            console.log(inputValue);
             this.setState({ input: inputValue });
         }
     }, {
@@ -17756,15 +17757,21 @@ var App = function (_React$Component) {
     }, {
         key: 'render',
         value: function render() {
+            var _this2 = this;
+
             return _react2.default.createElement(
                 'div',
                 { className: _App2.default.TodoApp },
-                _react2.default.createElement('input', { type: 'text', value: this.state.input }),
+                _react2.default.createElement('input', { type: 'text', value: this.state.input, onChange: function onChange(event) {
+                        return _this2.inputChange(event);
+                    } }),
                 _react2.default.createElement(
                     'button',
                     {
                         className: 'addItem',
-                        onClick: this.addTodo(this.state.input)
+                        onClick: function onClick() {
+                            return _this2.addTodo(_this2.state.input);
+                        }
                     },
                     'Add item'
                 ),
@@ -18297,6 +18304,7 @@ var TodoList = function (_React$Component) {
         _classCallCheck(this, TodoList);
 
         return _possibleConstructorReturn(this, (TodoList.__proto__ || Object.getPrototypeOf(TodoList)).call(this, props));
+
         /*this.state = {
             data:
                 [{
@@ -18311,23 +18319,19 @@ var TodoList = function (_React$Component) {
                 }]
         }*/
     }
+    /*removeItem(itemId){
+        this.props.removeTodo(itemId);
+    }*/
 
     _createClass(TodoList, [{
-        key: 'removeItem',
-        value: function removeItem(itemId) {}
-    }, {
         key: 'render',
         value: function render() {
+            var _this2 = this;
+
             var items = this.props.data.map(function (Todo) {
                 return _react2.default.createElement(
                     'li',
                     { className: _TodoList2.default.listItem },
-                    _react2.default.createElement(
-                        'p',
-                        { className: _TodoList2.default.id },
-                        Todo.id,
-                        '. '
-                    ),
                     _react2.default.createElement(
                         'p',
                         { className: _TodoList2.default.text },
@@ -18336,8 +18340,8 @@ var TodoList = function (_React$Component) {
                     _react2.default.createElement(
                         'button',
                         {
-                            className: _TodoList2.default.button
-                            //onClick={this.removeItem(Todo.id)}
+                            className: _TodoList2.default.button,
+                            onClick: _this2.props.removeTodo(Todo.id)
                         },
                         'x'
                     )

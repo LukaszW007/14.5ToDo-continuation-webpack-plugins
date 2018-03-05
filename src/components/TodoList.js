@@ -1,9 +1,11 @@
 import React from 'react';
-import styleList from  './TodoList.css';
+import styleList from './TodoList.css';
 
 class TodoList extends React.Component {
-    constructor (props) {
+    constructor(props) {
         super(props);
+
+
         /*this.state = {
             data:
                 [{
@@ -18,26 +20,24 @@ class TodoList extends React.Component {
                 }]
         }*/
     }
+    /*removeItem(itemId){
+        this.props.removeTodo(itemId);
+    }*/
 
-    removeItem (itemId) {
-    }
 
-    render () {
-        const items = this.props.data.map(function (Todo) {
-            return (
-                <li className={styleList.listItem} >
-                    <p className={styleList.id} >{Todo.id}. </p>
-                    <p className={styleList.text} >{Todo.text}</p>
-                    <button
-                        className={styleList.button}
-                        //onClick={this.removeItem(Todo.id)}
-                    >x</button>
-
-                </li>
-            )
-        });
+    render() {
+        const items = this.props.data.map(Todo =>
+            <li className={styleList.listItem}>
+                <p className={styleList.text}>{Todo.text}</p>
+                <button
+                    className={styleList.button}
+                    onClick={() => this.props.removeTodo(Todo.id)}
+                >x
+                </button>
+            </li>
+        );
         return (
-            <ul className = {styleList.todoList}>{items}</ul>
+            <ul className={styleList.todoList}>{items}</ul>
         )
 
     }

@@ -24,6 +24,7 @@ class App extends React.Component {
     }
     inputChange(event){
         const inputValue = event.target.value;
+        console.log(inputValue);
         this.setState({input:inputValue});
 }
     addTodo(val){
@@ -41,10 +42,10 @@ class App extends React.Component {
     render(){
         return(
             <div className={style.TodoApp}>
-                <input type="text" value={this.state.input} />
+                <input type="text" value={this.state.input} onChange={event => this.inputChange(event)}/>
                 <button
                     className={'addItem'}
-                    onClick={this.addTodo(this.state.input)}
+                    onClick={()=>this.addTodo(this.state.input)}
                 >Add item</button>
                 <Title numberOfItems={this.props.numberOfItems}/>
                 <TodoList data={this.state.data}/>
