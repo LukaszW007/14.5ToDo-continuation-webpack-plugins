@@ -31,7 +31,7 @@ class TodoList extends React.Component {
                 <p className={styleList.text}>{Todo.text}</p>
                 <button
                     className={styleList.button}
-                    onClick={() => this.props.removeTodo(Todo.id)}
+                    onClick={() => this.props.removeTodoItem(Todo.id)}
                 >x
                 </button>
             </li>

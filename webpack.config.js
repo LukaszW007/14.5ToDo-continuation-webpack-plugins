@@ -51,6 +51,10 @@ module.exports = {
                 ]
             }
         ]
+    },
+    devServer: {
+        contentBase: './build',
+        hot: true
     }
     /*plugins: [new HtmlWebpackPlugin({
         template: 'src/index.html',

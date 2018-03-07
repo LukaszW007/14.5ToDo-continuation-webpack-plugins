@@ -3,6 +3,7 @@ import uuid from 'uuid';
 import style from './App.css';
 import Title from '../components/Title.js';
 import TodoList from '../components/TodoList.js';
+import Todo from '../components/Todo.js';
 
 class App extends React.Component {
     constructor(props){
@@ -19,7 +20,7 @@ class App extends React.Component {
                     id: 3,
                     text: 'feed my cat'
                 }],
-            input:''
+            input:'',
         };
     }
     inputChange(event){
@@ -47,8 +48,8 @@ class App extends React.Component {
                     className={'addItem'}
                     onClick={()=>this.addTodo(this.state.input)}
                 >Add item</button>
-                <Title numberOfItems={this.props.numberOfItems}/>
-                <TodoList data={this.state.data}/>
+                <Title itemsNumber={this.state.data.length}/>
+                <TodoList data={this.state.data} removeTodoItem={id => this.removeTodo(id)}/>
             </div>
         );
     }

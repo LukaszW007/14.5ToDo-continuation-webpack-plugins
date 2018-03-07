@@ -262,35 +262,35 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(process, 'process', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(process, 'process', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedSetTimeout, 'cachedSetTimeout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cachedClearTimeout, 'cachedClearTimeout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultSetTimout, 'defaultSetTimout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(defaultClearTimeout, 'defaultClearTimeout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runTimeout, 'runTimeout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(runClearTimeout, 'runClearTimeout', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queue, 'queue', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queue, 'queue', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(draining, 'draining', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(draining, 'draining', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(currentQueue, 'currentQueue', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(queueIndex, 'queueIndex', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(cleanUpNextTick, 'cleanUpNextTick', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(drainQueue, 'drainQueue', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(Item, 'Item', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(Item, 'Item', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 
-    __REACT_HOT_LOADER__.register(noop, 'noop', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
+    __REACT_HOT_LOADER__.register(noop, 'noop', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/process/browser.js');
 }();
 
 ;
@@ -320,9 +320,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(freeSelf, 'freeSelf', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_root.js');
+  __REACT_HOT_LOADER__.register(freeSelf, 'freeSelf', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_root.js');
 
-  __REACT_HOT_LOADER__.register(root, 'root', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_root.js');
+  __REACT_HOT_LOADER__.register(root, 'root', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_root.js');
 }();
 
 ;
@@ -367,7 +367,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isArray, "isArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArray.js");
+  __REACT_HOT_LOADER__.register(isArray, "isArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArray.js");
 }();
 
 ;
@@ -426,7 +426,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getNative, 'getNative', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getNative.js');
+  __REACT_HOT_LOADER__.register(getNative, 'getNative', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getNative.js');
 }();
 
 ;
@@ -479,9 +479,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(makeEmptyFunction, "makeEmptyFunction", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyFunction.js");
 
-  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyFunction.js");
+  __REACT_HOT_LOADER__.register(emptyFunction, "emptyFunction", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyFunction.js");
 }();
 
 ;
@@ -531,7 +531,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isObjectLike, 'isObjectLike', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isObjectLike.js');
+  __REACT_HOT_LOADER__.register(isObjectLike, 'isObjectLike', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isObjectLike.js');
 }();
 
 ;
@@ -576,13 +576,13 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(nullTag, 'nullTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
+    __REACT_HOT_LOADER__.register(nullTag, 'nullTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
 
-    __REACT_HOT_LOADER__.register(undefinedTag, 'undefinedTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
+    __REACT_HOT_LOADER__.register(undefinedTag, 'undefinedTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
 
-    __REACT_HOT_LOADER__.register(symToStringTag, 'symToStringTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
+    __REACT_HOT_LOADER__.register(symToStringTag, 'symToStringTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
 
-    __REACT_HOT_LOADER__.register(baseGetTag, 'baseGetTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
+    __REACT_HOT_LOADER__.register(baseGetTag, 'baseGetTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetTag.js');
 }();
 
 ;
@@ -607,7 +607,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_Symbol, 'Symbol', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Symbol.js');
+  __REACT_HOT_LOADER__.register(_Symbol, 'Symbol', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Symbol.js');
 }();
 
 ;
@@ -659,7 +659,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isObject, 'isObject', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isObject.js');
+  __REACT_HOT_LOADER__.register(isObject, 'isObject', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isObject.js');
 }();
 
 ;
@@ -711,7 +711,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isArrayLike, 'isArrayLike', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArrayLike.js');
+  __REACT_HOT_LOADER__.register(isArrayLike, 'isArrayLike', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArrayLike.js');
 }();
 
 ;
@@ -818,15 +818,15 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(getOwnPropertySymbols, 'getOwnPropertySymbols', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(propIsEnumerable, 'propIsEnumerable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(toObject, 'toObject', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
 
-	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
+	__REACT_HOT_LOADER__.register(shouldUseNative, 'shouldUseNative', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/object-assign/index.js');
 }();
 
 ;
@@ -860,7 +860,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyObject.js');
+  __REACT_HOT_LOADER__.register(emptyObject, 'emptyObject', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/emptyObject.js');
 }();
 
 ;
@@ -912,7 +912,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(ListCache, 'ListCache', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_ListCache.js');
+    __REACT_HOT_LOADER__.register(ListCache, 'ListCache', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_ListCache.js');
 }();
 
 ;
@@ -952,7 +952,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(assocIndexOf, 'assocIndexOf', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assocIndexOf.js');
+  __REACT_HOT_LOADER__.register(assocIndexOf, 'assocIndexOf', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assocIndexOf.js');
 }();
 
 ;
@@ -1008,7 +1008,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(eq, "eq", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/eq.js");
+  __REACT_HOT_LOADER__.register(eq, "eq", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/eq.js");
 }();
 
 ;
@@ -1033,7 +1033,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(nativeCreate, 'nativeCreate', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nativeCreate.js');
+  __REACT_HOT_LOADER__.register(nativeCreate, 'nativeCreate', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nativeCreate.js');
 }();
 
 ;
@@ -1068,7 +1068,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getMapData, 'getMapData', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getMapData.js');
+  __REACT_HOT_LOADER__.register(getMapData, 'getMapData', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getMapData.js');
 }();
 
 ;
@@ -1124,7 +1124,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(keys, 'keys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/keys.js');
+  __REACT_HOT_LOADER__.register(keys, 'keys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/keys.js');
 }();
 
 ;
@@ -1173,9 +1173,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(symbolTag, 'symbolTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isSymbol.js');
+    __REACT_HOT_LOADER__.register(symbolTag, 'symbolTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isSymbol.js');
 
-    __REACT_HOT_LOADER__.register(isSymbol, 'isSymbol', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isSymbol.js');
+    __REACT_HOT_LOADER__.register(isSymbol, 'isSymbol', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isSymbol.js');
 }();
 
 ;
@@ -1215,9 +1215,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toKey.js');
+  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toKey.js');
 
-  __REACT_HOT_LOADER__.register(toKey, 'toKey', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toKey.js');
+  __REACT_HOT_LOADER__.register(toKey, 'toKey', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toKey.js');
 }();
 
 ;
@@ -1326,9 +1326,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(validateFormat, 'validateFormat', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/invariant.js');
 
-  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/invariant.js');
+  __REACT_HOT_LOADER__.register(invariant, 'invariant', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/invariant.js');
 }();
 
 ;
@@ -1408,9 +1408,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(warning, 'warning', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(warning, 'warning', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/warning.js');
 
-  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/warning.js');
+  __REACT_HOT_LOADER__.register(printWarning, 'printWarning', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/warning.js');
 }();
 
 ;
@@ -1437,7 +1437,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Map, 'Map', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Map.js');
+    __REACT_HOT_LOADER__.register(Map, 'Map', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Map.js');
 }();
 
 ;
@@ -1488,7 +1488,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(MapCache, 'MapCache', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_MapCache.js');
+    __REACT_HOT_LOADER__.register(MapCache, 'MapCache', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_MapCache.js');
 }();
 
 ;
@@ -1544,13 +1544,13 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
+    __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
 
-    __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
+    __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
 
-    __REACT_HOT_LOADER__.register(propertyIsEnumerable, 'propertyIsEnumerable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
+    __REACT_HOT_LOADER__.register(propertyIsEnumerable, 'propertyIsEnumerable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
 
-    __REACT_HOT_LOADER__.register(isArguments, 'isArguments', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
+    __REACT_HOT_LOADER__.register(isArguments, 'isArguments', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArguments.js');
 }();
 
 ;
@@ -1593,11 +1593,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(MAX_SAFE_INTEGER, 'MAX_SAFE_INTEGER', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
+  __REACT_HOT_LOADER__.register(MAX_SAFE_INTEGER, 'MAX_SAFE_INTEGER', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
 
-  __REACT_HOT_LOADER__.register(reIsUint, 'reIsUint', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
+  __REACT_HOT_LOADER__.register(reIsUint, 'reIsUint', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
 
-  __REACT_HOT_LOADER__.register(isIndex, 'isIndex', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
+  __REACT_HOT_LOADER__.register(isIndex, 'isIndex', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIndex.js');
 }();
 
 ;
@@ -1650,9 +1650,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(MAX_SAFE_INTEGER, 'MAX_SAFE_INTEGER', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isLength.js');
+  __REACT_HOT_LOADER__.register(MAX_SAFE_INTEGER, 'MAX_SAFE_INTEGER', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isLength.js');
 
-  __REACT_HOT_LOADER__.register(isLength, 'isLength', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isLength.js');
+  __REACT_HOT_LOADER__.register(isLength, 'isLength', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isLength.js');
 }();
 
 ;
@@ -1700,11 +1700,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(reIsDeepProp, 'reIsDeepProp', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
+  __REACT_HOT_LOADER__.register(reIsDeepProp, 'reIsDeepProp', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
 
-  __REACT_HOT_LOADER__.register(reIsPlainProp, 'reIsPlainProp', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
+  __REACT_HOT_LOADER__.register(reIsPlainProp, 'reIsPlainProp', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
 
-  __REACT_HOT_LOADER__.register(isKey, 'isKey', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
+  __REACT_HOT_LOADER__.register(isKey, 'isKey', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKey.js');
 }();
 
 ;
@@ -1744,7 +1744,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(identity, "identity", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/identity.js");
+  __REACT_HOT_LOADER__.register(identity, "identity", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/identity.js");
 }();
 
 ;
@@ -1822,9 +1822,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(loggedTypeFailures, 'loggedTypeFailures', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/checkPropTypes.js');
 
-  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/checkPropTypes.js');
+  __REACT_HOT_LOADER__.register(checkPropTypes, 'checkPropTypes', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/checkPropTypes.js');
 }();
 
 ;
@@ -1857,11 +1857,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(x, "x", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
+  __REACT_HOT_LOADER__.register(x, "x", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
 
-  __REACT_HOT_LOADER__.register(y, "y", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
+  __REACT_HOT_LOADER__.register(y, "y", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
 
-  __REACT_HOT_LOADER__.register(supportsProtoAssignment, "supportsProtoAssignment", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
+  __REACT_HOT_LOADER__.register(supportsProtoAssignment, "supportsProtoAssignment", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/supportsProtoAssignment.js");
 }();
 
 ;
@@ -1911,7 +1911,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseIteratee, 'baseIteratee', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIteratee.js');
+  __REACT_HOT_LOADER__.register(baseIteratee, 'baseIteratee', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIteratee.js');
 }();
 
 ;
@@ -1957,7 +1957,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(Stack, 'Stack', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Stack.js');
+  __REACT_HOT_LOADER__.register(Stack, 'Stack', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Stack.js');
 }();
 
 ;
@@ -2013,15 +2013,15 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(asyncTag, 'asyncTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
+    __REACT_HOT_LOADER__.register(asyncTag, 'asyncTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
 
-    __REACT_HOT_LOADER__.register(funcTag, 'funcTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
+    __REACT_HOT_LOADER__.register(funcTag, 'funcTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
 
-    __REACT_HOT_LOADER__.register(genTag, 'genTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
+    __REACT_HOT_LOADER__.register(genTag, 'genTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
 
-    __REACT_HOT_LOADER__.register(proxyTag, 'proxyTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
+    __REACT_HOT_LOADER__.register(proxyTag, 'proxyTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
 
-    __REACT_HOT_LOADER__.register(isFunction, 'isFunction', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
+    __REACT_HOT_LOADER__.register(isFunction, 'isFunction', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isFunction.js');
 }();
 
 ;
@@ -2046,7 +2046,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(freeGlobal, 'freeGlobal', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_freeGlobal.js');
+  __REACT_HOT_LOADER__.register(freeGlobal, 'freeGlobal', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_freeGlobal.js');
 }();
 
 ;
@@ -2088,7 +2088,7 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(g, "g", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/webpack/buildin/global.js");
+	__REACT_HOT_LOADER__.register(g, "g", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/webpack/buildin/global.js");
 }();
 
 ;
@@ -2133,11 +2133,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(funcProto, 'funcProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
+  __REACT_HOT_LOADER__.register(funcProto, 'funcProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
 
-  __REACT_HOT_LOADER__.register(funcToString, 'funcToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
+  __REACT_HOT_LOADER__.register(funcToString, 'funcToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
 
-  __REACT_HOT_LOADER__.register(toSource, 'toSource', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
+  __REACT_HOT_LOADER__.register(toSource, 'toSource', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_toSource.js');
 }();
 
 ;
@@ -2184,7 +2184,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseIsEqual, 'baseIsEqual', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqual.js');
+  __REACT_HOT_LOADER__.register(baseIsEqual, 'baseIsEqual', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqual.js');
 }();
 
 ;
@@ -2280,11 +2280,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
 
-  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
+  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
 
-  __REACT_HOT_LOADER__.register(equalArrays, 'equalArrays', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
+  __REACT_HOT_LOADER__.register(equalArrays, 'equalArrays', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalArrays.js');
 }();
 
 ;
@@ -2330,7 +2330,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(SetCache, 'SetCache', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_SetCache.js');
+    __REACT_HOT_LOADER__.register(SetCache, 'SetCache', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_SetCache.js');
 }();
 
 ;
@@ -2362,7 +2362,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(cacheHas, "cacheHas", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_cacheHas.js");
+  __REACT_HOT_LOADER__.register(cacheHas, "cacheHas", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_cacheHas.js");
 }();
 
 ;
@@ -2401,7 +2401,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayPush, "arrayPush", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayPush.js");
+  __REACT_HOT_LOADER__.register(arrayPush, "arrayPush", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayPush.js");
 }();
 
 ;
@@ -2460,17 +2460,17 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(freeExports, 'freeExports', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(freeExports, 'freeExports', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 
-  __REACT_HOT_LOADER__.register(freeModule, 'freeModule', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(freeModule, 'freeModule', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 
-  __REACT_HOT_LOADER__.register(moduleExports, 'moduleExports', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(moduleExports, 'moduleExports', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 
-  __REACT_HOT_LOADER__.register(Buffer, 'Buffer', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(Buffer, 'Buffer', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 
-  __REACT_HOT_LOADER__.register(nativeIsBuffer, 'nativeIsBuffer', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(nativeIsBuffer, 'nativeIsBuffer', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 
-  __REACT_HOT_LOADER__.register(isBuffer, 'isBuffer', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
+  __REACT_HOT_LOADER__.register(isBuffer, 'isBuffer', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isBuffer.js');
 }();
 
 ;
@@ -2517,9 +2517,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(nodeIsTypedArray, 'nodeIsTypedArray', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isTypedArray.js');
+  __REACT_HOT_LOADER__.register(nodeIsTypedArray, 'nodeIsTypedArray', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isTypedArray.js');
 
-  __REACT_HOT_LOADER__.register(isTypedArray, 'isTypedArray', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isTypedArray.js');
+  __REACT_HOT_LOADER__.register(isTypedArray, 'isTypedArray', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isTypedArray.js');
 }();
 
 ;
@@ -2552,7 +2552,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseUnary, "baseUnary", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseUnary.js");
+  __REACT_HOT_LOADER__.register(baseUnary, "baseUnary", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseUnary.js");
 }();
 
 ;
@@ -2589,9 +2589,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isPrototype.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isPrototype.js');
 
-  __REACT_HOT_LOADER__.register(isPrototype, 'isPrototype', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isPrototype.js');
+  __REACT_HOT_LOADER__.register(isPrototype, 'isPrototype', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isPrototype.js');
 }();
 
 ;
@@ -2625,7 +2625,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isStrictComparable, 'isStrictComparable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isStrictComparable.js');
+  __REACT_HOT_LOADER__.register(isStrictComparable, 'isStrictComparable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isStrictComparable.js');
 }();
 
 ;
@@ -2663,7 +2663,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(matchesStrictComparable, "matchesStrictComparable", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_matchesStrictComparable.js");
+  __REACT_HOT_LOADER__.register(matchesStrictComparable, "matchesStrictComparable", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_matchesStrictComparable.js");
 }();
 
 ;
@@ -2706,7 +2706,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseGet, 'baseGet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGet.js');
+  __REACT_HOT_LOADER__.register(baseGet, 'baseGet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGet.js');
 }();
 
 ;
@@ -2746,7 +2746,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(castPath, 'castPath', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_castPath.js');
+  __REACT_HOT_LOADER__.register(castPath, 'castPath', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_castPath.js');
 }();
 
 ;
@@ -2786,7 +2786,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayMap, "arrayMap", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayMap.js");
+  __REACT_HOT_LOADER__.register(arrayMap, "arrayMap", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayMap.js");
 }();
 
 ;
@@ -2829,7 +2829,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseFindIndex, "baseFindIndex", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseFindIndex.js");
+  __REACT_HOT_LOADER__.register(baseFindIndex, "baseFindIndex", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseFindIndex.js");
 }();
 
 ;
@@ -2875,11 +2875,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
 
-  __REACT_HOT_LOADER__.register(assignValue, 'assignValue', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
+  __REACT_HOT_LOADER__.register(assignValue, 'assignValue', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_assignValue.js');
 }();
 
 ;
@@ -2923,7 +2923,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseAssignValue, 'baseAssignValue', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseAssignValue.js');
+  __REACT_HOT_LOADER__.register(baseAssignValue, 'baseAssignValue', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseAssignValue.js');
 }();
 
 ;
@@ -2953,7 +2953,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(defineProperty, 'defineProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_defineProperty.js');
+  __REACT_HOT_LOADER__.register(defineProperty, 'defineProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_defineProperty.js');
 }();
 
 ;
@@ -2989,7 +2989,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseRest, 'baseRest', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseRest.js');
+  __REACT_HOT_LOADER__.register(baseRest, 'baseRest', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseRest.js');
 }();
 
 ;
@@ -3041,7 +3041,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/index.js');
+  __REACT_HOT_LOADER__.register(checkDCE, 'checkDCE', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/index.js');
 }();
 
 ;
@@ -3092,9 +3092,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(canUseDOM, 'canUseDOM', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/ExecutionEnvironment.js');
 
-  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/ExecutionEnvironment.js');
+  __REACT_HOT_LOADER__.register(ExecutionEnvironment, 'ExecutionEnvironment', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/ExecutionEnvironment.js');
 }();
 
 ;
@@ -3185,7 +3185,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/EventListener.js');
+  __REACT_HOT_LOADER__.register(EventListener, 'EventListener', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/EventListener.js');
 }();
 
 ;
@@ -3240,7 +3240,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/getActiveElement.js');
+  __REACT_HOT_LOADER__.register(getActiveElement, 'getActiveElement', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/getActiveElement.js');
 }();
 
 ;
@@ -3324,11 +3324,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(is, 'is', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(is, 'is', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
 
-  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
+  __REACT_HOT_LOADER__.register(shallowEqual, 'shallowEqual', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/shallowEqual.js');
 }();
 
 ;
@@ -3382,7 +3382,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/containsNode.js');
+  __REACT_HOT_LOADER__.register(containsNode, 'containsNode', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/containsNode.js');
 }();
 
 ;
@@ -3423,7 +3423,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/focusNode.js');
+  __REACT_HOT_LOADER__.register(focusNode, 'focusNode', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/focusNode.js');
 }();
 
 ;
@@ -3473,11 +3473,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getRandomValues, 'getRandomValues', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
+  __REACT_HOT_LOADER__.register(getRandomValues, 'getRandomValues', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
 
-  __REACT_HOT_LOADER__.register(rnds8, 'rnds8', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
+  __REACT_HOT_LOADER__.register(rnds8, 'rnds8', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
 
-  __REACT_HOT_LOADER__.register(rnds, 'rnds', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
+  __REACT_HOT_LOADER__.register(rnds, 'rnds', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/rng-browser.js');
 }();
 
 ;
@@ -3512,11 +3512,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(byteToHex, 'byteToHex', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
+  __REACT_HOT_LOADER__.register(byteToHex, 'byteToHex', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
 
-  __REACT_HOT_LOADER__.register(i, 'i', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
+  __REACT_HOT_LOADER__.register(i, 'i', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
 
-  __REACT_HOT_LOADER__.register(bytesToUuid, 'bytesToUuid', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
+  __REACT_HOT_LOADER__.register(bytesToUuid, 'bytesToUuid', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/lib/bytesToUuid.js');
 }();
 
 ;
@@ -3609,9 +3609,9 @@ var _temp = function () {
 		return;
 	}
 
-	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(cssWithMappingToString, "cssWithMappingToString", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/css-loader/lib/css-base.js");
 
-	__REACT_HOT_LOADER__.register(toComment, "toComment", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/css-loader/lib/css-base.js");
+	__REACT_HOT_LOADER__.register(toComment, "toComment", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/css-loader/lib/css-base.js");
 }();
 
 ;
@@ -4273,31 +4273,31 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(_createClass, "_createClass", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(_classCallCheck, "_classCallCheck", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(createProxy, "createProxy", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(createProxy, "createProxy", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(ComponentMap, "ComponentMap", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(ComponentMap, "ComponentMap", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(proxiesByID, "proxiesByID", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(proxiesByID, "proxiesByID", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(didWarnAboutID, "didWarnAboutID", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(didWarnAboutID, "didWarnAboutID", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(hasCreatedElementsByType, "hasCreatedElementsByType", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(hasCreatedElementsByType, "hasCreatedElementsByType", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(idsByType, "idsByType", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(idsByType, "idsByType", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(hooks, "hooks", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(hooks, "hooks", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(resolveType, "resolveType", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(resolveType, "resolveType", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(createElement, "createElement", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(createElement, "createElement", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(patchedCreateElement, "patchedCreateElement", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(patchedCreateElement, "patchedCreateElement", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 
-  __REACT_HOT_LOADER__.register(patchedCreateFactory, "patchedCreateFactory", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
+  __REACT_HOT_LOADER__.register(patchedCreateFactory, "patchedCreateFactory", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-hot-loader/lib/patch.dev.js");
 }();
 
 ;
@@ -4437,71 +4437,71 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(q, "q", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(q, "q", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(r, "r", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(r, "r", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(t, "t", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(t, "t", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(u, "u", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(u, "u", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(v, "v", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(v, "v", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(w, "w", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(w, "w", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(x, "x", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(x, "x", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(y, "y", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(y, "y", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(z, "z", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(z, "z", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(A, "A", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(A, "A", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(B, "B", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(B, "B", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(C, "C", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(C, "C", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(D, "D", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(D, "D", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(E, "E", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(F, "F", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(F, "F", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(G, "G", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(G, "G", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(H, "H", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(H, "H", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(I, "I", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(I, "I", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(J, "J", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(J, "J", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(escape, "escape", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(escape, "escape", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(L, "L", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(L, "L", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(N, "N", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(N, "N", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(O, "O", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(O, "O", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(P, "P", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(R, "R", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(R, "R", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(S, "S", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(T, "T", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(U, "U", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(V, "V", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 
-  __REACT_HOT_LOADER__.register(W, "W", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
+  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react/cjs/react.production.min.js");
 }();
 
 ;
@@ -5899,7 +5899,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/lib/ReactPropTypesSecret.js');
+  __REACT_HOT_LOADER__.register(ReactPropTypesSecret, 'ReactPropTypesSecret', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/prop-types/lib/ReactPropTypesSecret.js');
 }();
 
 ;
@@ -5939,11 +5939,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_supportsProtoAssignment2, '_supportsProtoAssignment2', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
+  __REACT_HOT_LOADER__.register(_supportsProtoAssignment2, '_supportsProtoAssignment2', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
 
-  __REACT_HOT_LOADER__.register(_createClassProxy2, '_createClassProxy2', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
+  __REACT_HOT_LOADER__.register(_createClassProxy2, '_createClassProxy2', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
 
-  __REACT_HOT_LOADER__.register(_interopRequireDefault, '_interopRequireDefault', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
+  __REACT_HOT_LOADER__.register(_interopRequireDefault, '_interopRequireDefault', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/index.js');
 }();
 
 ;
@@ -6292,41 +6292,41 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_extends, "_extends", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_extends, "_extends", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_slicedToArray, "_slicedToArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_slicedToArray, "_slicedToArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_find2, "_find2", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_find2, "_find2", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_createPrototypeProxy2, "_createPrototypeProxy2", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_createPrototypeProxy2, "_createPrototypeProxy2", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_bindAutoBindMethods2, "_bindAutoBindMethods2", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_bindAutoBindMethods2, "_bindAutoBindMethods2", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_deleteUnknownAutoBindMethods2, "_deleteUnknownAutoBindMethods2", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_deleteUnknownAutoBindMethods2, "_deleteUnknownAutoBindMethods2", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_supportsProtoAssignment2, "_supportsProtoAssignment2", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_supportsProtoAssignment2, "_supportsProtoAssignment2", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_interopRequireDefault, "_interopRequireDefault", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_interopRequireDefault, "_interopRequireDefault", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(_toConsumableArray, "_toConsumableArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(_toConsumableArray, "_toConsumableArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(RESERVED_STATICS, "RESERVED_STATICS", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(RESERVED_STATICS, "RESERVED_STATICS", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(isEqualDescriptor, "isEqualDescriptor", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(isEqualDescriptor, "isEqualDescriptor", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(getDisplayName, "getDisplayName", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(getDisplayName, "getDisplayName", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(allProxies, "allProxies", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(allProxies, "allProxies", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(findProxy, "findProxy", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(findProxy, "findProxy", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(addProxy, "addProxy", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(addProxy, "addProxy", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(proxyClass, "proxyClass", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(proxyClass, "proxyClass", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(createFallback, "createFallback", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(createFallback, "createFallback", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 
-  __REACT_HOT_LOADER__.register(createClassProxy, "createClassProxy", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
+  __REACT_HOT_LOADER__.register(createClassProxy, "createClassProxy", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createClassProxy.js");
 }();
 
 ;
@@ -6387,7 +6387,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(find, 'find', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/find.js');
+  __REACT_HOT_LOADER__.register(find, 'find', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/find.js');
 }();
 
 ;
@@ -6433,7 +6433,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(createFind, 'createFind', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_createFind.js');
+  __REACT_HOT_LOADER__.register(createFind, 'createFind', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_createFind.js');
 }();
 
 ;
@@ -6474,7 +6474,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseMatches, 'baseMatches', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatches.js');
+  __REACT_HOT_LOADER__.register(baseMatches, 'baseMatches', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatches.js');
 }();
 
 ;
@@ -6549,11 +6549,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
 
-  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
+  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
 
-  __REACT_HOT_LOADER__.register(baseIsMatch, 'baseIsMatch', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
+  __REACT_HOT_LOADER__.register(baseIsMatch, 'baseIsMatch', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsMatch.js');
 }();
 
 ;
@@ -6585,7 +6585,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(listCacheClear, "listCacheClear", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheClear.js");
+  __REACT_HOT_LOADER__.register(listCacheClear, "listCacheClear", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheClear.js");
 }();
 
 ;
@@ -6639,11 +6639,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayProto, 'arrayProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
+  __REACT_HOT_LOADER__.register(arrayProto, 'arrayProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
 
-  __REACT_HOT_LOADER__.register(splice, 'splice', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
+  __REACT_HOT_LOADER__.register(splice, 'splice', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
 
-  __REACT_HOT_LOADER__.register(listCacheDelete, 'listCacheDelete', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
+  __REACT_HOT_LOADER__.register(listCacheDelete, 'listCacheDelete', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheDelete.js');
 }();
 
 ;
@@ -6681,7 +6681,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(listCacheGet, 'listCacheGet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheGet.js');
+  __REACT_HOT_LOADER__.register(listCacheGet, 'listCacheGet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheGet.js');
 }();
 
 ;
@@ -6716,7 +6716,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(listCacheHas, 'listCacheHas', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheHas.js');
+  __REACT_HOT_LOADER__.register(listCacheHas, 'listCacheHas', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheHas.js');
 }();
 
 ;
@@ -6761,7 +6761,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(listCacheSet, 'listCacheSet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheSet.js');
+  __REACT_HOT_LOADER__.register(listCacheSet, 'listCacheSet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_listCacheSet.js');
 }();
 
 ;
@@ -6795,7 +6795,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stackClear, 'stackClear', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackClear.js');
+  __REACT_HOT_LOADER__.register(stackClear, 'stackClear', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackClear.js');
 }();
 
 ;
@@ -6832,7 +6832,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stackDelete, 'stackDelete', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackDelete.js');
+  __REACT_HOT_LOADER__.register(stackDelete, 'stackDelete', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackDelete.js');
 }();
 
 ;
@@ -6865,7 +6865,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stackGet, "stackGet", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackGet.js");
+  __REACT_HOT_LOADER__.register(stackGet, "stackGet", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackGet.js");
 }();
 
 ;
@@ -6898,7 +6898,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stackHas, "stackHas", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackHas.js");
+  __REACT_HOT_LOADER__.register(stackHas, "stackHas", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackHas.js");
 }();
 
 ;
@@ -6951,9 +6951,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(LARGE_ARRAY_SIZE, 'LARGE_ARRAY_SIZE', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackSet.js');
+  __REACT_HOT_LOADER__.register(LARGE_ARRAY_SIZE, 'LARGE_ARRAY_SIZE', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackSet.js');
 
-  __REACT_HOT_LOADER__.register(stackSet, 'stackSet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackSet.js');
+  __REACT_HOT_LOADER__.register(stackSet, 'stackSet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stackSet.js');
 }();
 
 ;
@@ -7016,21 +7016,21 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(reRegExpChar, 'reRegExpChar', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(reRegExpChar, 'reRegExpChar', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(reIsHostCtor, 'reIsHostCtor', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(reIsHostCtor, 'reIsHostCtor', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(funcProto, 'funcProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(funcProto, 'funcProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(funcToString, 'funcToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(funcToString, 'funcToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(reIsNative, 'reIsNative', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(reIsNative, 'reIsNative', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 
-  __REACT_HOT_LOADER__.register(baseIsNative, 'baseIsNative', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
+  __REACT_HOT_LOADER__.register(baseIsNative, 'baseIsNative', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNative.js');
 }();
 
 ;
@@ -7095,15 +7095,15 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
 
-  __REACT_HOT_LOADER__.register(nativeObjectToString, 'nativeObjectToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
+  __REACT_HOT_LOADER__.register(nativeObjectToString, 'nativeObjectToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
 
-  __REACT_HOT_LOADER__.register(symToStringTag, 'symToStringTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
+  __REACT_HOT_LOADER__.register(symToStringTag, 'symToStringTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
 
-  __REACT_HOT_LOADER__.register(getRawTag, 'getRawTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
+  __REACT_HOT_LOADER__.register(getRawTag, 'getRawTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getRawTag.js');
 }();
 
 ;
@@ -7144,11 +7144,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, "objectProto", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
+  __REACT_HOT_LOADER__.register(objectProto, "objectProto", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
 
-  __REACT_HOT_LOADER__.register(nativeObjectToString, "nativeObjectToString", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
+  __REACT_HOT_LOADER__.register(nativeObjectToString, "nativeObjectToString", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
 
-  __REACT_HOT_LOADER__.register(objectToString, "objectToString", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
+  __REACT_HOT_LOADER__.register(objectToString, "objectToString", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_objectToString.js");
 }();
 
 ;
@@ -7187,9 +7187,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(maskSrcKey, 'maskSrcKey', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isMasked.js');
+  __REACT_HOT_LOADER__.register(maskSrcKey, 'maskSrcKey', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isMasked.js');
 
-  __REACT_HOT_LOADER__.register(isMasked, 'isMasked', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isMasked.js');
+  __REACT_HOT_LOADER__.register(isMasked, 'isMasked', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isMasked.js');
 }();
 
 ;
@@ -7214,7 +7214,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(coreJsData, 'coreJsData', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_coreJsData.js');
+  __REACT_HOT_LOADER__.register(coreJsData, 'coreJsData', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_coreJsData.js');
 }();
 
 ;
@@ -7246,7 +7246,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getValue, "getValue", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getValue.js");
+  __REACT_HOT_LOADER__.register(getValue, "getValue", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getValue.js");
 }();
 
 ;
@@ -7286,7 +7286,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapCacheClear, 'mapCacheClear', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheClear.js');
+  __REACT_HOT_LOADER__.register(mapCacheClear, 'mapCacheClear', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheClear.js');
 }();
 
 ;
@@ -7337,7 +7337,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Hash, 'Hash', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Hash.js');
+    __REACT_HOT_LOADER__.register(Hash, 'Hash', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Hash.js');
 }();
 
 ;
@@ -7371,7 +7371,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hashClear, 'hashClear', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashClear.js');
+  __REACT_HOT_LOADER__.register(hashClear, 'hashClear', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashClear.js');
 }();
 
 ;
@@ -7407,7 +7407,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hashDelete, "hashDelete", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashDelete.js");
+  __REACT_HOT_LOADER__.register(hashDelete, "hashDelete", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashDelete.js");
 }();
 
 ;
@@ -7456,13 +7456,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
+  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
 
-  __REACT_HOT_LOADER__.register(hashGet, 'hashGet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
+  __REACT_HOT_LOADER__.register(hashGet, 'hashGet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashGet.js');
 }();
 
 ;
@@ -7504,11 +7504,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
 
-  __REACT_HOT_LOADER__.register(hashHas, 'hashHas', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
+  __REACT_HOT_LOADER__.register(hashHas, 'hashHas', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashHas.js');
 }();
 
 ;
@@ -7550,9 +7550,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashSet.js');
+  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashSet.js');
 
-  __REACT_HOT_LOADER__.register(hashSet, 'hashSet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashSet.js');
+  __REACT_HOT_LOADER__.register(hashSet, 'hashSet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hashSet.js');
 }();
 
 ;
@@ -7589,7 +7589,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapCacheDelete, 'mapCacheDelete', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheDelete.js');
+  __REACT_HOT_LOADER__.register(mapCacheDelete, 'mapCacheDelete', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheDelete.js');
 }();
 
 ;
@@ -7623,7 +7623,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isKeyable, 'isKeyable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKeyable.js');
+  __REACT_HOT_LOADER__.register(isKeyable, 'isKeyable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isKeyable.js');
 }();
 
 ;
@@ -7658,7 +7658,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapCacheGet, 'mapCacheGet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheGet.js');
+  __REACT_HOT_LOADER__.register(mapCacheGet, 'mapCacheGet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheGet.js');
 }();
 
 ;
@@ -7693,7 +7693,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapCacheHas, 'mapCacheHas', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheHas.js');
+  __REACT_HOT_LOADER__.register(mapCacheHas, 'mapCacheHas', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheHas.js');
 }();
 
 ;
@@ -7734,7 +7734,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapCacheSet, 'mapCacheSet', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheSet.js');
+  __REACT_HOT_LOADER__.register(mapCacheSet, 'mapCacheSet', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapCacheSet.js');
 }();
 
 ;
@@ -7834,19 +7834,19 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(arrayTag, 'arrayTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(arrayTag, 'arrayTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 
-  __REACT_HOT_LOADER__.register(baseIsEqualDeep, 'baseIsEqualDeep', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
+  __REACT_HOT_LOADER__.register(baseIsEqualDeep, 'baseIsEqualDeep', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsEqualDeep.js');
 }();
 
 ;
@@ -7884,9 +7884,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheAdd.js');
+  __REACT_HOT_LOADER__.register(HASH_UNDEFINED, 'HASH_UNDEFINED', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheAdd.js');
 
-  __REACT_HOT_LOADER__.register(setCacheAdd, 'setCacheAdd', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheAdd.js');
+  __REACT_HOT_LOADER__.register(setCacheAdd, 'setCacheAdd', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheAdd.js');
 }();
 
 ;
@@ -7919,7 +7919,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(setCacheHas, "setCacheHas", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheHas.js");
+  __REACT_HOT_LOADER__.register(setCacheHas, "setCacheHas", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setCacheHas.js");
 }();
 
 ;
@@ -7961,7 +7961,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arraySome, "arraySome", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arraySome.js");
+  __REACT_HOT_LOADER__.register(arraySome, "arraySome", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arraySome.js");
 }();
 
 ;
@@ -8090,37 +8090,37 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(boolTag, 'boolTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(boolTag, 'boolTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(dateTag, 'dateTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(dateTag, 'dateTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(errorTag, 'errorTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(errorTag, 'errorTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(numberTag, 'numberTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(numberTag, 'numberTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(regexpTag, 'regexpTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(regexpTag, 'regexpTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(setTag, 'setTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(setTag, 'setTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(stringTag, 'stringTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(stringTag, 'stringTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(symbolTag, 'symbolTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(symbolTag, 'symbolTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(arrayBufferTag, 'arrayBufferTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(arrayBufferTag, 'arrayBufferTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(symbolProto, 'symbolProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(symbolProto, 'symbolProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(symbolValueOf, 'symbolValueOf', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(symbolValueOf, 'symbolValueOf', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 
-  __REACT_HOT_LOADER__.register(equalByTag, 'equalByTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
+  __REACT_HOT_LOADER__.register(equalByTag, 'equalByTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalByTag.js');
 }();
 
 ;
@@ -8145,7 +8145,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(Uint8Array, 'Uint8Array', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Uint8Array.js');
+  __REACT_HOT_LOADER__.register(Uint8Array, 'Uint8Array', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Uint8Array.js');
 }();
 
 ;
@@ -8182,7 +8182,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(mapToArray, "mapToArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapToArray.js");
+  __REACT_HOT_LOADER__.register(mapToArray, "mapToArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_mapToArray.js");
 }();
 
 ;
@@ -8219,7 +8219,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(setToArray, "setToArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setToArray.js");
+  __REACT_HOT_LOADER__.register(setToArray, "setToArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setToArray.js");
 }();
 
 ;
@@ -8319,13 +8319,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
 
-  __REACT_HOT_LOADER__.register(equalObjects, 'equalObjects', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
+  __REACT_HOT_LOADER__.register(equalObjects, 'equalObjects', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_equalObjects.js');
 }();
 
 ;
@@ -8360,7 +8360,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(getAllKeys, 'getAllKeys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getAllKeys.js');
+  __REACT_HOT_LOADER__.register(getAllKeys, 'getAllKeys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getAllKeys.js');
 }();
 
 ;
@@ -8399,7 +8399,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseGetAllKeys, 'baseGetAllKeys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetAllKeys.js');
+  __REACT_HOT_LOADER__.register(baseGetAllKeys, 'baseGetAllKeys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseGetAllKeys.js');
 }();
 
 ;
@@ -8448,13 +8448,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
 
-  __REACT_HOT_LOADER__.register(propertyIsEnumerable, 'propertyIsEnumerable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
+  __REACT_HOT_LOADER__.register(propertyIsEnumerable, 'propertyIsEnumerable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
 
-  __REACT_HOT_LOADER__.register(nativeGetSymbols, 'nativeGetSymbols', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
+  __REACT_HOT_LOADER__.register(nativeGetSymbols, 'nativeGetSymbols', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
 
-  __REACT_HOT_LOADER__.register(getSymbols, 'getSymbols', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
+  __REACT_HOT_LOADER__.register(getSymbols, 'getSymbols', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getSymbols.js');
 }();
 
 ;
@@ -8498,7 +8498,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayFilter, "arrayFilter", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayFilter.js");
+  __REACT_HOT_LOADER__.register(arrayFilter, "arrayFilter", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayFilter.js");
 }();
 
 ;
@@ -8540,7 +8540,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stubArray, "stubArray", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/stubArray.js");
+  __REACT_HOT_LOADER__.register(stubArray, "stubArray", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/stubArray.js");
 }();
 
 ;
@@ -8606,11 +8606,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
 
-  __REACT_HOT_LOADER__.register(arrayLikeKeys, 'arrayLikeKeys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
+  __REACT_HOT_LOADER__.register(arrayLikeKeys, 'arrayLikeKeys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayLikeKeys.js');
 }();
 
 ;
@@ -8649,7 +8649,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseTimes, "baseTimes", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseTimes.js");
+  __REACT_HOT_LOADER__.register(baseTimes, "baseTimes", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseTimes.js");
 }();
 
 ;
@@ -8686,9 +8686,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsArguments.js');
+  __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsArguments.js');
 
-  __REACT_HOT_LOADER__.register(baseIsArguments, 'baseIsArguments', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsArguments.js');
+  __REACT_HOT_LOADER__.register(baseIsArguments, 'baseIsArguments', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsArguments.js');
 }();
 
 ;
@@ -8725,7 +8725,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(stubFalse, "stubFalse", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/stubFalse.js");
+  __REACT_HOT_LOADER__.register(stubFalse, "stubFalse", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/stubFalse.js");
 }();
 
 ;
@@ -8792,57 +8792,57 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(argsTag, 'argsTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(arrayTag, 'arrayTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(arrayTag, 'arrayTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(boolTag, 'boolTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(boolTag, 'boolTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(dateTag, 'dateTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(dateTag, 'dateTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(errorTag, 'errorTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(errorTag, 'errorTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(funcTag, 'funcTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(funcTag, 'funcTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(numberTag, 'numberTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(numberTag, 'numberTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(regexpTag, 'regexpTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(regexpTag, 'regexpTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(setTag, 'setTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(setTag, 'setTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(stringTag, 'stringTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(stringTag, 'stringTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(weakMapTag, 'weakMapTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(weakMapTag, 'weakMapTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(arrayBufferTag, 'arrayBufferTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(arrayBufferTag, 'arrayBufferTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(float32Tag, 'float32Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(float32Tag, 'float32Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(float64Tag, 'float64Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(float64Tag, 'float64Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(int8Tag, 'int8Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(int8Tag, 'int8Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(int16Tag, 'int16Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(int16Tag, 'int16Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(int32Tag, 'int32Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(int32Tag, 'int32Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(uint8Tag, 'uint8Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(uint8Tag, 'uint8Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(uint8ClampedTag, 'uint8ClampedTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(uint8ClampedTag, 'uint8ClampedTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(uint16Tag, 'uint16Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(uint16Tag, 'uint16Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(uint32Tag, 'uint32Tag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(uint32Tag, 'uint32Tag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(typedArrayTags, 'typedArrayTags', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(typedArrayTags, 'typedArrayTags', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 
-    __REACT_HOT_LOADER__.register(baseIsTypedArray, 'baseIsTypedArray', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
+    __REACT_HOT_LOADER__.register(baseIsTypedArray, 'baseIsTypedArray', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsTypedArray.js');
 }();
 
 ;
@@ -8885,15 +8885,15 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(freeExports, 'freeExports', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
+  __REACT_HOT_LOADER__.register(freeExports, 'freeExports', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
 
-  __REACT_HOT_LOADER__.register(freeModule, 'freeModule', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
+  __REACT_HOT_LOADER__.register(freeModule, 'freeModule', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
 
-  __REACT_HOT_LOADER__.register(moduleExports, 'moduleExports', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
+  __REACT_HOT_LOADER__.register(moduleExports, 'moduleExports', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
 
-  __REACT_HOT_LOADER__.register(freeProcess, 'freeProcess', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
+  __REACT_HOT_LOADER__.register(freeProcess, 'freeProcess', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
 
-  __REACT_HOT_LOADER__.register(nodeUtil, 'nodeUtil', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
+  __REACT_HOT_LOADER__.register(nodeUtil, 'nodeUtil', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nodeUtil.js');
 }();
 
 ;
@@ -8943,11 +8943,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
 
-  __REACT_HOT_LOADER__.register(baseKeys, 'baseKeys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
+  __REACT_HOT_LOADER__.register(baseKeys, 'baseKeys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseKeys.js');
 }();
 
 ;
@@ -8972,7 +8972,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(nativeKeys, 'nativeKeys', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nativeKeys.js');
+  __REACT_HOT_LOADER__.register(nativeKeys, 'nativeKeys', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_nativeKeys.js');
 }();
 
 ;
@@ -9006,7 +9006,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(overArg, "overArg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overArg.js");
+  __REACT_HOT_LOADER__.register(overArg, "overArg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overArg.js");
 }();
 
 ;
@@ -9084,29 +9084,29 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(mapTag, 'mapTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(objectTag, 'objectTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(promiseTag, 'promiseTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(promiseTag, 'promiseTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(setTag, 'setTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(setTag, 'setTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(weakMapTag, 'weakMapTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(weakMapTag, 'weakMapTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(dataViewTag, 'dataViewTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(dataViewCtorString, 'dataViewCtorString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(dataViewCtorString, 'dataViewCtorString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(mapCtorString, 'mapCtorString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(mapCtorString, 'mapCtorString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(promiseCtorString, 'promiseCtorString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(promiseCtorString, 'promiseCtorString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(setCtorString, 'setCtorString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(setCtorString, 'setCtorString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(weakMapCtorString, 'weakMapCtorString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(weakMapCtorString, 'weakMapCtorString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 
-    __REACT_HOT_LOADER__.register(getTag, 'getTag', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
+    __REACT_HOT_LOADER__.register(getTag, 'getTag', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getTag.js');
 }();
 
 ;
@@ -9132,7 +9132,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(DataView, 'DataView', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_DataView.js');
+    __REACT_HOT_LOADER__.register(DataView, 'DataView', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_DataView.js');
 }();
 
 ;
@@ -9158,7 +9158,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Promise, 'Promise', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Promise.js');
+    __REACT_HOT_LOADER__.register(Promise, 'Promise', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Promise.js');
 }();
 
 ;
@@ -9184,7 +9184,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Set, 'Set', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Set.js');
+    __REACT_HOT_LOADER__.register(Set, 'Set', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_Set.js');
 }();
 
 ;
@@ -9210,7 +9210,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(WeakMap, 'WeakMap', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_WeakMap.js');
+    __REACT_HOT_LOADER__.register(WeakMap, 'WeakMap', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_WeakMap.js');
 }();
 
 ;
@@ -9253,7 +9253,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(getMatchData, 'getMatchData', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getMatchData.js');
+    __REACT_HOT_LOADER__.register(getMatchData, 'getMatchData', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_getMatchData.js');
 }();
 
 ;
@@ -9303,11 +9303,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
+  __REACT_HOT_LOADER__.register(COMPARE_PARTIAL_FLAG, 'COMPARE_PARTIAL_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
 
-  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
+  __REACT_HOT_LOADER__.register(COMPARE_UNORDERED_FLAG, 'COMPARE_UNORDERED_FLAG', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
 
-  __REACT_HOT_LOADER__.register(baseMatchesProperty, 'baseMatchesProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
+  __REACT_HOT_LOADER__.register(baseMatchesProperty, 'baseMatchesProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseMatchesProperty.js');
 }();
 
 ;
@@ -9359,7 +9359,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(get, 'get', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/get.js');
+  __REACT_HOT_LOADER__.register(get, 'get', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/get.js');
 }();
 
 ;
@@ -9405,11 +9405,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(rePropName, 'rePropName', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
+  __REACT_HOT_LOADER__.register(rePropName, 'rePropName', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
 
-  __REACT_HOT_LOADER__.register(reEscapeChar, 'reEscapeChar', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
+  __REACT_HOT_LOADER__.register(reEscapeChar, 'reEscapeChar', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
 
-  __REACT_HOT_LOADER__.register(stringToPath, 'stringToPath', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
+  __REACT_HOT_LOADER__.register(stringToPath, 'stringToPath', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_stringToPath.js');
 }();
 
 ;
@@ -9454,9 +9454,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(MAX_MEMOIZE_SIZE, 'MAX_MEMOIZE_SIZE', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_memoizeCapped.js');
+  __REACT_HOT_LOADER__.register(MAX_MEMOIZE_SIZE, 'MAX_MEMOIZE_SIZE', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_memoizeCapped.js');
 
-  __REACT_HOT_LOADER__.register(memoizeCapped, 'memoizeCapped', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_memoizeCapped.js');
+  __REACT_HOT_LOADER__.register(memoizeCapped, 'memoizeCapped', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_memoizeCapped.js');
 }();
 
 ;
@@ -9548,9 +9548,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(FUNC_ERROR_TEXT, 'FUNC_ERROR_TEXT', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/memoize.js');
+  __REACT_HOT_LOADER__.register(FUNC_ERROR_TEXT, 'FUNC_ERROR_TEXT', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/memoize.js');
 
-  __REACT_HOT_LOADER__.register(memoize, 'memoize', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/memoize.js');
+  __REACT_HOT_LOADER__.register(memoize, 'memoize', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/memoize.js');
 }();
 
 ;
@@ -9597,7 +9597,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(toString, 'toString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toString.js');
+  __REACT_HOT_LOADER__.register(toString, 'toString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toString.js');
 }();
 
 ;
@@ -9653,13 +9653,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
+  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
 
-  __REACT_HOT_LOADER__.register(symbolProto, 'symbolProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
+  __REACT_HOT_LOADER__.register(symbolProto, 'symbolProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
 
-  __REACT_HOT_LOADER__.register(symbolToString, 'symbolToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
+  __REACT_HOT_LOADER__.register(symbolToString, 'symbolToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
 
-  __REACT_HOT_LOADER__.register(baseToString, 'baseToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
+  __REACT_HOT_LOADER__.register(baseToString, 'baseToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseToString.js');
 }();
 
 ;
@@ -9712,7 +9712,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hasIn, 'hasIn', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/hasIn.js');
+  __REACT_HOT_LOADER__.register(hasIn, 'hasIn', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/hasIn.js');
 }();
 
 ;
@@ -9744,7 +9744,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseHasIn, "baseHasIn", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseHasIn.js");
+  __REACT_HOT_LOADER__.register(baseHasIn, "baseHasIn", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseHasIn.js");
 }();
 
 ;
@@ -9801,7 +9801,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(hasPath, 'hasPath', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hasPath.js');
+  __REACT_HOT_LOADER__.register(hasPath, 'hasPath', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_hasPath.js');
 }();
 
 ;
@@ -9852,7 +9852,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(property, 'property', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/property.js');
+  __REACT_HOT_LOADER__.register(property, 'property', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/property.js');
 }();
 
 ;
@@ -9885,7 +9885,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseProperty, "baseProperty", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseProperty.js");
+  __REACT_HOT_LOADER__.register(baseProperty, "baseProperty", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseProperty.js");
 }();
 
 ;
@@ -9920,7 +9920,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(basePropertyDeep, 'basePropertyDeep', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_basePropertyDeep.js');
+  __REACT_HOT_LOADER__.register(basePropertyDeep, 'basePropertyDeep', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_basePropertyDeep.js');
 }();
 
 ;
@@ -9994,9 +9994,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(nativeMax, 'nativeMax', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/findIndex.js');
+  __REACT_HOT_LOADER__.register(nativeMax, 'nativeMax', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/findIndex.js');
 
-  __REACT_HOT_LOADER__.register(findIndex, 'findIndex', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/findIndex.js');
+  __REACT_HOT_LOADER__.register(findIndex, 'findIndex', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/findIndex.js');
 }();
 
 ;
@@ -10051,7 +10051,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(toInteger, 'toInteger', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toInteger.js');
+  __REACT_HOT_LOADER__.register(toInteger, 'toInteger', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toInteger.js');
 }();
 
 ;
@@ -10112,11 +10112,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
+  __REACT_HOT_LOADER__.register(INFINITY, 'INFINITY', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
 
-  __REACT_HOT_LOADER__.register(MAX_INTEGER, 'MAX_INTEGER', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
+  __REACT_HOT_LOADER__.register(MAX_INTEGER, 'MAX_INTEGER', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
 
-  __REACT_HOT_LOADER__.register(toFinite, 'toFinite', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
+  __REACT_HOT_LOADER__.register(toFinite, 'toFinite', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toFinite.js');
 }();
 
 ;
@@ -10199,19 +10199,19 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(NAN, 'NAN', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(NAN, 'NAN', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(reTrim, 'reTrim', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(reTrim, 'reTrim', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(reIsBadHex, 'reIsBadHex', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(reIsBadHex, 'reIsBadHex', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(reIsBinary, 'reIsBinary', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(reIsBinary, 'reIsBinary', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(reIsOctal, 'reIsOctal', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(reIsOctal, 'reIsOctal', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(freeParseInt, 'freeParseInt', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(freeParseInt, 'freeParseInt', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 
-  __REACT_HOT_LOADER__.register(toNumber, 'toNumber', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
+  __REACT_HOT_LOADER__.register(toNumber, 'toNumber', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/toNumber.js');
 }();
 
 ;
@@ -10436,13 +10436,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_assign2, '_assign2', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
+  __REACT_HOT_LOADER__.register(_assign2, '_assign2', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
 
-  __REACT_HOT_LOADER__.register(_difference2, '_difference2', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
+  __REACT_HOT_LOADER__.register(_difference2, '_difference2', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
 
-  __REACT_HOT_LOADER__.register(_interopRequireDefault, '_interopRequireDefault', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
+  __REACT_HOT_LOADER__.register(_interopRequireDefault, '_interopRequireDefault', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
 
-  __REACT_HOT_LOADER__.register(createPrototypeProxy, 'createPrototypeProxy', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
+  __REACT_HOT_LOADER__.register(createPrototypeProxy, 'createPrototypeProxy', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/createPrototypeProxy.js');
 }();
 
 ;
@@ -10519,11 +10519,11 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
+  __REACT_HOT_LOADER__.register(objectProto, 'objectProto', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
 
-  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
+  __REACT_HOT_LOADER__.register(hasOwnProperty, 'hasOwnProperty', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
 
-  __REACT_HOT_LOADER__.register(assign, 'assign', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
+  __REACT_HOT_LOADER__.register(assign, 'assign', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/assign.js');
 }();
 
 ;
@@ -10580,7 +10580,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(copyObject, 'copyObject', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_copyObject.js');
+  __REACT_HOT_LOADER__.register(copyObject, 'copyObject', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_copyObject.js');
 }();
 
 ;
@@ -10634,7 +10634,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(createAssigner, 'createAssigner', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_createAssigner.js');
+  __REACT_HOT_LOADER__.register(createAssigner, 'createAssigner', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_createAssigner.js');
 }();
 
 ;
@@ -10689,9 +10689,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(nativeMax, 'nativeMax', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overRest.js');
+  __REACT_HOT_LOADER__.register(nativeMax, 'nativeMax', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overRest.js');
 
-  __REACT_HOT_LOADER__.register(overRest, 'overRest', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overRest.js');
+  __REACT_HOT_LOADER__.register(overRest, 'overRest', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_overRest.js');
 }();
 
 ;
@@ -10735,7 +10735,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(apply, "apply", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_apply.js");
+  __REACT_HOT_LOADER__.register(apply, "apply", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_apply.js");
 }();
 
 ;
@@ -10768,7 +10768,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(setToString, 'setToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setToString.js');
+  __REACT_HOT_LOADER__.register(setToString, 'setToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_setToString.js');
 }();
 
 ;
@@ -10809,7 +10809,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseSetToString, 'baseSetToString', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseSetToString.js');
+  __REACT_HOT_LOADER__.register(baseSetToString, 'baseSetToString', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseSetToString.js');
 }();
 
 ;
@@ -10854,7 +10854,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(constant, "constant", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/constant.js");
+  __REACT_HOT_LOADER__.register(constant, "constant", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/constant.js");
 }();
 
 ;
@@ -10910,13 +10910,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(HOT_COUNT, "HOT_COUNT", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
+  __REACT_HOT_LOADER__.register(HOT_COUNT, "HOT_COUNT", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
 
-  __REACT_HOT_LOADER__.register(HOT_SPAN, "HOT_SPAN", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
+  __REACT_HOT_LOADER__.register(HOT_SPAN, "HOT_SPAN", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
 
-  __REACT_HOT_LOADER__.register(nativeNow, "nativeNow", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
+  __REACT_HOT_LOADER__.register(nativeNow, "nativeNow", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
 
-  __REACT_HOT_LOADER__.register(shortOut, "shortOut", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
+  __REACT_HOT_LOADER__.register(shortOut, "shortOut", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_shortOut.js");
 }();
 
 ;
@@ -10964,7 +10964,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isIterateeCall, 'isIterateeCall', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIterateeCall.js');
+  __REACT_HOT_LOADER__.register(isIterateeCall, 'isIterateeCall', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isIterateeCall.js');
 }();
 
 ;
@@ -11014,7 +11014,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(difference, 'difference', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/difference.js');
+    __REACT_HOT_LOADER__.register(difference, 'difference', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/difference.js');
 }();
 
 ;
@@ -11097,9 +11097,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(LARGE_ARRAY_SIZE, 'LARGE_ARRAY_SIZE', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseDifference.js');
+  __REACT_HOT_LOADER__.register(LARGE_ARRAY_SIZE, 'LARGE_ARRAY_SIZE', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseDifference.js');
 
-  __REACT_HOT_LOADER__.register(baseDifference, 'baseDifference', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseDifference.js');
+  __REACT_HOT_LOADER__.register(baseDifference, 'baseDifference', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseDifference.js');
 }();
 
 ;
@@ -11135,7 +11135,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayIncludes, 'arrayIncludes', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayIncludes.js');
+  __REACT_HOT_LOADER__.register(arrayIncludes, 'arrayIncludes', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayIncludes.js');
 }();
 
 ;
@@ -11172,7 +11172,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(baseIndexOf, 'baseIndexOf', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIndexOf.js');
+    __REACT_HOT_LOADER__.register(baseIndexOf, 'baseIndexOf', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIndexOf.js');
 }();
 
 ;
@@ -11203,7 +11203,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseIsNaN, "baseIsNaN", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNaN.js");
+  __REACT_HOT_LOADER__.register(baseIsNaN, "baseIsNaN", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseIsNaN.js");
 }();
 
 ;
@@ -11245,7 +11245,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(strictIndexOf, "strictIndexOf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_strictIndexOf.js");
+  __REACT_HOT_LOADER__.register(strictIndexOf, "strictIndexOf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_strictIndexOf.js");
 }();
 
 ;
@@ -11286,7 +11286,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(arrayIncludesWith, "arrayIncludesWith", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayIncludesWith.js");
+  __REACT_HOT_LOADER__.register(arrayIncludesWith, "arrayIncludesWith", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_arrayIncludesWith.js");
 }();
 
 ;
@@ -11343,7 +11343,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(baseFlatten, 'baseFlatten', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseFlatten.js');
+  __REACT_HOT_LOADER__.register(baseFlatten, 'baseFlatten', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_baseFlatten.js');
 }();
 
 ;
@@ -11381,9 +11381,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(spreadableSymbol, 'spreadableSymbol', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isFlattenable.js');
+    __REACT_HOT_LOADER__.register(spreadableSymbol, 'spreadableSymbol', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isFlattenable.js');
 
-    __REACT_HOT_LOADER__.register(isFlattenable, 'isFlattenable', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isFlattenable.js');
+    __REACT_HOT_LOADER__.register(isFlattenable, 'isFlattenable', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/_isFlattenable.js');
 }();
 
 ;
@@ -11435,7 +11435,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isArrayLikeObject, 'isArrayLikeObject', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArrayLikeObject.js');
+  __REACT_HOT_LOADER__.register(isArrayLikeObject, 'isArrayLikeObject', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/lodash/isArrayLikeObject.js');
 }();
 
 ;
@@ -11545,13 +11545,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(bindAutoBindMethod, 'bindAutoBindMethod', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(bindAutoBindMethod, 'bindAutoBindMethod', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(bindAutoBindMethodsFromMap, 'bindAutoBindMethodsFromMap', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(bindAutoBindMethodsFromMap, 'bindAutoBindMethodsFromMap', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(bindAutoBindMethods, 'bindAutoBindMethods', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(bindAutoBindMethods, 'bindAutoBindMethods', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(bindAutoBindMethodsFromArray, 'bindAutoBindMethodsFromArray', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(bindAutoBindMethodsFromArray, 'bindAutoBindMethodsFromArray', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/bindAutoBindMethods.js');
 }();
 
 ;
@@ -11651,13 +11651,13 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(shouldDeleteClassicInstanceMethod, 'shouldDeleteClassicInstanceMethod', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(shouldDeleteClassicInstanceMethod, 'shouldDeleteClassicInstanceMethod', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(shouldDeleteModernInstanceMethod, 'shouldDeleteModernInstanceMethod', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(shouldDeleteModernInstanceMethod, 'shouldDeleteModernInstanceMethod', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(shouldDeleteInstanceMethod, 'shouldDeleteInstanceMethod', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(shouldDeleteInstanceMethod, 'shouldDeleteInstanceMethod', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
 
-  __REACT_HOT_LOADER__.register(deleteUnknownAutoBindMethods, 'deleteUnknownAutoBindMethods', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
+  __REACT_HOT_LOADER__.register(deleteUnknownAutoBindMethods, 'deleteUnknownAutoBindMethods', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-proxy/modules/deleteUnknownAutoBindMethods.js');
 }();
 
 ;
@@ -11689,7 +11689,7 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(win, "win", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/global/window.js");
+    __REACT_HOT_LOADER__.register(win, "win", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/global/window.js");
 }();
 
 ;
@@ -13744,647 +13744,647 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(E, "E", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(E, "E", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oa, "oa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oa, "oa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pa, "pa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pa, "pa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ta, "ta", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ta, "ta", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ua, "ua", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ua, "ua", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(va, "va", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(va, "va", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wa, "wa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wa, "wa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xa, "xa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xa, "xa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ya, "ya", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ya, "ya", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(K, "K", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(K, "K", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(za, "za", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(za, "za", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Aa, "Aa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Aa, "Aa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ba, "Ba", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ba, "Ba", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ca, "Ca", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ca, "Ca", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Da, "Da", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Da, "Da", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ea, "Ea", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ea, "Ea", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(M, "M", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(M, "M", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ga, "Ga", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ga, "Ga", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ha, "Ha", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ha, "Ha", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ia, "Ia", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ia, "Ia", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(P, "P", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(P, "P", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ja, "Ja", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ja, "Ja", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ka, "Ka", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ka, "Ka", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(La, "La", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(La, "La", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ma, "Ma", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ma, "Ma", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Na, "Na", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Na, "Na", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qa, "Qa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qa, "Qa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oa, "Oa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oa, "Oa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pa, "Pa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pa, "Pa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ra, "Ra", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ra, "Ra", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sa, "Sa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sa, "Sa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ta, "Ta", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ta, "Ta", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ua, "Ua", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ua, "Ua", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Va, "Va", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Va, "Va", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wa, "Wa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wa, "Wa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xa, "Xa", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xa, "Xa", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ya, "Ya", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ya, "Ya", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Za, "Za", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Za, "Za", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($a, "$a", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($a, "$a", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ab, "ab", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ab, "ab", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bb, "bb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bb, "bb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cb, "cb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cb, "cb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(db, "db", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(db, "db", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gb, "gb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gb, "gb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hb, "hb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hb, "hb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ib, "ib", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ib, "ib", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jb, "jb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jb, "jb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kb, "kb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kb, "kb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lb, "lb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lb, "lb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mb, "mb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mb, "mb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nb, "nb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nb, "nb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Q, "Q", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Q, "Q", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ob, "ob", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ob, "ob", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pb, "pb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pb, "pb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qb, "qb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qb, "qb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rb, "rb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rb, "rb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sb, "sb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sb, "sb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tb, "tb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tb, "tb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ub, "ub", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ub, "ub", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vb, "vb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vb, "vb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wb, "wb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wb, "wb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xb, "xb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xb, "xb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yb, "yb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yb, "yb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zb, "zb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zb, "zb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ab, "Ab", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ab, "Ab", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bb, "Bb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bb, "Bb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cb, "Cb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cb, "Cb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Db, "Db", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Db, "Db", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Eb, "Eb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Eb, "Eb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(S, "S", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(S, "S", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fb, "Fb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fb, "Fb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gb, "Gb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gb, "Gb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hb, "Hb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hb, "Hb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ib, "Ib", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ib, "Ib", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(T, "T", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(T, "T", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kb, "Kb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kb, "Kb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lb, "Lb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lb, "Lb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jb, "Jb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jb, "Jb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mb, "Mb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mb, "Mb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nb, "Nb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nb, "Nb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pb, "Pb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pb, "Pb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vb, "Vb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vb, "Vb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wb, "Wb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wb, "Wb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xb, "Xb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xb, "Xb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yb, "Yb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yb, "Yb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zb, "Zb", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zb, "Zb", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($b, "$b", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($b, "$b", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ac, "ac", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ac, "ac", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bc, "bc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bc, "bc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cc, "cc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cc, "cc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dc, "dc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dc, "dc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ec, "ec", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ec, "ec", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fc, "fc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fc, "fc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gc, "gc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gc, "gc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hc, "hc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hc, "hc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ic, "ic", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ic, "ic", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jc, "jc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jc, "jc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kc, "kc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kc, "kc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lc, "lc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lc, "lc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mc, "mc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mc, "mc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nc, "nc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nc, "nc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oc, "oc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oc, "oc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pc, "pc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pc, "pc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qc, "qc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qc, "qc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rc, "rc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rc, "rc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sc, "sc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sc, "sc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tc, "tc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tc, "tc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uc, "uc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uc, "uc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vc, "vc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vc, "vc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wc, "wc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wc, "wc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xc, "xc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xc, "xc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yc, "yc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yc, "yc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zc, "zc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zc, "zc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ac, "Ac", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ac, "Ac", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bc, "Bc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bc, "Bc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cc, "Cc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cc, "Cc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dc, "Dc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dc, "Dc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ec, "Ec", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ec, "Ec", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fc, "Fc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fc, "Fc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gc, "Gc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gc, "Gc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hc, "Hc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hc, "Hc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ic, "Ic", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ic, "Ic", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jc, "Jc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jc, "Jc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kc, "Kc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kc, "Kc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lc, "Lc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lc, "Lc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mc, "Mc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mc, "Mc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nc, "Nc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nc, "Nc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Oc, "Oc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Oc, "Oc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pc, "Pc", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pc, "Pc", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($c, "$c", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($c, "$c", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ad, "ad", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ad, "ad", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bd, "bd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bd, "bd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cd, "cd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cd, "cd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dd, "dd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dd, "dd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ed, "ed", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ed, "ed", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fd, "fd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fd, "fd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gd, "gd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gd, "gd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hd, "hd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hd, "hd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(id, "id", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(id, "id", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jd, "jd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jd, "jd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kd, "kd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kd, "kd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ld, "ld", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ld, "ld", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(md, "md", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(md, "md", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nd, "nd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nd, "nd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(od, "od", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(od, "od", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pd, "pd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pd, "pd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qd, "qd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qd, "qd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rd, "rd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rd, "rd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(td, "td", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(td, "td", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sd, "sd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sd, "sd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ud, "ud", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ud, "ud", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(U, "U", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(U, "U", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wd, "wd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wd, "wd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vd, "vd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vd, "vd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xd, "xd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xd, "xd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yd, "yd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yd, "yd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zd, "zd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zd, "zd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ad, "Ad", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ad, "Ad", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bd, "Bd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bd, "Bd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cd, "Cd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cd, "Cd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Dd, "Dd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Dd, "Dd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ed, "Ed", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ed, "Ed", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fd, "Fd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fd, "Fd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gd, "Gd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gd, "Gd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hd, "Hd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hd, "Hd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Id, "Id", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Id, "Id", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jd, "Jd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jd, "Jd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kd, "Kd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kd, "Kd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ld, "Ld", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ld, "Ld", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Md, "Md", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Md, "Md", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nd, "Nd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nd, "Nd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Od, "Od", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Od, "Od", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pd, "Pd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pd, "Pd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qd, "Qd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qd, "Qd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rd, "Rd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rd, "Rd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sd, "Sd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sd, "Sd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Td, "Td", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Td, "Td", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ud, "Ud", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ud, "Ud", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vd, "Vd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vd, "Vd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wd, "Wd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wd, "Wd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xd, "Xd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xd, "Xd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yd, "Yd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yd, "Yd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zd, "Zd", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zd, "Zd", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($d, "$d", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($d, "$d", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ae, "ae", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ae, "ae", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(be, "be", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(be, "be", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ce, "ce", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ce, "ce", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(de, "de", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(de, "de", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ee, "ee", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ee, "ee", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fe, "fe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fe, "fe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ge, "ge", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ge, "ge", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(he, "he", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(he, "he", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(V, "V", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(V, "V", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(W, "W", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(W, "W", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ie, "ie", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ie, "ie", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(X, "X", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(X, "X", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(je, "je", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(je, "je", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ke, "ke", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ke, "ke", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(me, "me", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(me, "me", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(le, "le", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(le, "le", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ne, "ne", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ne, "ne", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(oe, "oe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(oe, "oe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pe, "pe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pe, "pe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qe, "qe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qe, "qe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(re, "re", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(re, "re", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Y, "Y", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Y, "Y", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(se, "se", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(se, "se", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(te, "te", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(te, "te", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ue, "ue", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ue, "ue", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ve, "ve", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ve, "ve", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(we, "we", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(we, "we", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xe, "xe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xe, "xe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ye, "ye", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ye, "ye", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ze, "ze", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ze, "ze", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ae, "Ae", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ae, "Ae", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Be, "Be", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Be, "Be", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ce, "Ce", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ce, "Ce", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(De, "De", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(De, "De", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ee, "Ee", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ee, "Ee", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Fe, "Fe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Fe, "Fe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ge, "Ge", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ge, "Ge", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(He, "He", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(He, "He", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ie, "Ie", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ie, "Ie", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Je, "Je", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Je, "Je", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ke, "Ke", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ke, "Ke", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Le, "Le", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Le, "Le", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qe, "Qe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qe, "Qe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Re, "Re", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Re, "Re", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Se, "Se", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Se, "Se", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Te, "Te", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Te, "Te", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ue, "Ue", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ue, "Ue", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ve, "Ve", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ve, "Ve", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(We, "We", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(We, "We", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xe, "Xe", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xe, "Xe", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ye, "Ye", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ye, "Ye", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ze, "Ze", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ze, "Ze", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($e, "$e", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($e, "$e", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(af, "af", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(af, "af", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bf, "bf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bf, "bf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cf, "cf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cf, "cf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(df, "df", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(df, "df", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ef, "ef", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ef, "ef", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ff, "ff", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ff, "ff", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gf, "gf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gf, "gf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hf, "hf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hf, "hf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jf, "jf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jf, "jf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kf, "kf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kf, "kf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lf, "lf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lf, "lf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mf, "mf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mf, "mf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(nf, "nf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(nf, "nf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(of, "of", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(of, "of", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pf, "pf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pf, "pf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(qf, "qf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(qf, "qf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(rf, "rf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(rf, "rf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sf, "sf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sf, "sf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tf, "tf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tf, "tf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(uf, "uf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(uf, "uf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vf, "vf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vf, "vf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wf, "wf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wf, "wf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xf, "xf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xf, "xf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(yf, "yf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(yf, "yf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(zf, "zf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(zf, "zf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Af, "Af", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Af, "Af", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Bf, "Bf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Bf, "Bf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Cf, "Cf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Cf, "Cf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Df, "Df", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Df, "Df", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ef, "Ef", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ef, "Ef", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ff, "Ff", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ff, "Ff", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Gf, "Gf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Gf, "Gf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Hf, "Hf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Hf, "Hf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(If, "If", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(If, "If", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Kf, "Kf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Kf, "Kf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Jf, "Jf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Jf, "Jf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Lf, "Lf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Lf, "Lf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mf, "Mf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mf, "Mf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Nf, "Nf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Nf, "Nf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Of, "Of", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Of, "Of", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pf, "Pf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pf, "Pf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qf, "Qf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qf, "Qf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rf, "Rf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rf, "Rf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sf, "Sf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sf, "Sf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tf, "Tf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tf, "Tf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Uf, "Uf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Uf, "Uf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Vf, "Vf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Vf, "Vf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Wf, "Wf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Wf, "Wf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Xf, "Xf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Xf, "Xf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Yf, "Yf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Yf, "Yf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Zf, "Zf", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Zf, "Zf", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register($f, "$f", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register($f, "$f", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ag, "ag", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ag, "ag", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(bg, "bg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(bg, "bg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(cg, "cg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(cg, "cg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(dg, "dg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(dg, "dg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(eg, "eg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(eg, "eg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(fg, "fg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(fg, "fg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(gg, "gg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(gg, "gg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(hg, "hg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(hg, "hg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ig, "ig", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ig, "ig", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(jg, "jg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(jg, "jg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(kg, "kg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(kg, "kg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(lg, "lg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(lg, "lg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(mg, "mg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(mg, "mg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ng, "ng", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ng, "ng", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(og, "og", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(og, "og", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(pg, "pg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(pg, "pg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(sg, "sg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(sg, "sg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(tg, "tg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(tg, "tg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(ug, "ug", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(ug, "ug", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(vg, "vg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(vg, "vg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(wg, "wg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(wg, "wg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(xg, "xg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(xg, "xg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Mg, "Mg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Mg, "Mg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ng, "Ng", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ng, "Ng", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Og, "Og", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Og, "Og", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Z, "Z", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Z, "Z", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Pg, "Pg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Pg, "Pg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Qg, "Qg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Qg, "Qg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Rg, "Rg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Rg, "Rg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Sg, "Sg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Sg, "Sg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Tg, "Tg", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Tg, "Tg", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 
-  __REACT_HOT_LOADER__.register(Ug, "Ug", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
+  __REACT_HOT_LOADER__.register(Ug, "Ug", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/react-dom/cjs/react-dom.production.min.js");
 }();
 
 ;
@@ -14423,7 +14423,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/isTextNode.js');
+  __REACT_HOT_LOADER__.register(isTextNode, 'isTextNode', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/isTextNode.js');
 }();
 
 ;
@@ -14465,7 +14465,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/isNode.js');
+  __REACT_HOT_LOADER__.register(isNode, 'isNode', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/isNode.js');
 }();
 
 ;
@@ -17502,9 +17502,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenateStyleName.js');
 
-  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenateStyleName.js');
+  __REACT_HOT_LOADER__.register(hyphenateStyleName, 'hyphenateStyleName', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenateStyleName.js');
 }();
 
 ;
@@ -17551,9 +17551,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(_uppercasePattern, '_uppercasePattern', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenate.js');
 
-  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenate.js');
+  __REACT_HOT_LOADER__.register(hyphenate, 'hyphenate', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/hyphenate.js');
 }();
 
 ;
@@ -17607,9 +17607,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(msPattern, 'msPattern', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelizeStyleName.js');
 
-  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelizeStyleName.js');
+  __REACT_HOT_LOADER__.register(camelizeStyleName, 'camelizeStyleName', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelizeStyleName.js');
 }();
 
 ;
@@ -17655,9 +17655,9 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(_hyphenPattern, "_hyphenPattern", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelize.js");
 
-  __REACT_HOT_LOADER__.register(camelize, "camelize", "F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelize.js");
+  __REACT_HOT_LOADER__.register(camelize, "camelize", "D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/fbjs/lib/camelize.js");
 }();
 
 ;
@@ -17775,8 +17775,10 @@ var App = function (_React$Component) {
                     },
                     'Add item'
                 ),
-                _react2.default.createElement(_Title2.default, { numberOfItems: this.props.numberOfItems }),
-                _react2.default.createElement(_TodoList2.default, { data: this.state.data })
+                _react2.default.createElement(_Title2.default, { itemsNumber: this.state.data.length }),
+                _react2.default.createElement(_TodoList2.default, { data: this.state.data, removeTodoItem: function removeTodoItem(id) {
+                        return _this2.removeTodo(id);
+                    } })
             );
         }
     }]);
@@ -17793,9 +17795,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(App, 'App', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/containers/App.js');
+    __REACT_HOT_LOADER__.register(App, 'App', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/containers/App.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/containers/App.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/containers/App.js');
 }();
 
 ;
@@ -17822,7 +17824,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(uuid, 'uuid', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/index.js');
+  __REACT_HOT_LOADER__.register(uuid, 'uuid', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/index.js');
 }();
 
 ;
@@ -17947,15 +17949,15 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(_nodeId, '_nodeId', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
+  __REACT_HOT_LOADER__.register(_nodeId, '_nodeId', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
 
-  __REACT_HOT_LOADER__.register(_clockseq, '_clockseq', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
+  __REACT_HOT_LOADER__.register(_clockseq, '_clockseq', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
 
-  __REACT_HOT_LOADER__.register(_lastMSecs, '_lastMSecs', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
+  __REACT_HOT_LOADER__.register(_lastMSecs, '_lastMSecs', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
 
-  __REACT_HOT_LOADER__.register(_lastNSecs, '_lastNSecs', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
+  __REACT_HOT_LOADER__.register(_lastNSecs, '_lastNSecs', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
 
-  __REACT_HOT_LOADER__.register(v1, 'v1', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
+  __REACT_HOT_LOADER__.register(v1, 'v1', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v1.js');
 }();
 
 ;
@@ -18003,7 +18005,7 @@ var _temp = function () {
     return;
   }
 
-  __REACT_HOT_LOADER__.register(v4, 'v4', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v4.js');
+  __REACT_HOT_LOADER__.register(v4, 'v4', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/node_modules/uuid/v4.js');
 }();
 
 ;
@@ -18216,8 +18218,7 @@ var Title = function (_React$Component) {
         var _this = _possibleConstructorReturn(this, (Title.__proto__ || Object.getPrototypeOf(Title)).call(this, props));
 
         _this.state = {
-            titleName: 'ToDo list',
-            numberOfItems: 0
+            titleName: 'ToDo list'
         };
         return _this;
     }
@@ -18243,7 +18244,7 @@ var Title = function (_React$Component) {
                 _react2.default.createElement(
                     'div',
                     { className: 'numberOfItems' },
-                    this.props.numberOfItems
+                    this.props.itemsNumber
                 )
             );
         }
@@ -18261,9 +18262,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(Title, 'Title', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/components/Title.js');
+    __REACT_HOT_LOADER__.register(Title, 'Title', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/components/Title.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/components/Title.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/components/Title.js');
 }();
 
 ;
@@ -18341,7 +18342,9 @@ var TodoList = function (_React$Component) {
                         'button',
                         {
                             className: _TodoList2.default.button,
-                            onClick: _this2.props.removeTodo(Todo.id)
+                            onClick: function onClick() {
+                                return _this2.props.removeTodoItem(Todo.id);
+                            }
                         },
                         'x'
                     )
@@ -18367,9 +18370,9 @@ var _temp = function () {
         return;
     }
 
-    __REACT_HOT_LOADER__.register(TodoList, 'TodoList', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/components/TodoList.js');
+    __REACT_HOT_LOADER__.register(TodoList, 'TodoList', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/components/TodoList.js');
 
-    __REACT_HOT_LOADER__.register(_default, 'default', 'F:/Worskpace/WebStorm/16.5ToDo-continuation-webpack-plugins/src/components/TodoList.js');
+    __REACT_HOT_LOADER__.register(_default, 'default', 'D:/Kodilla/Workspace/16.5ToDo-continuation-webpack-plugins/src/components/TodoList.js');
 }();
 
 ;

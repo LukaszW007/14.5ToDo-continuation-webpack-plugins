@@ -6,7 +6,6 @@ class Title extends React.Component {
         super(props);
         this.state = {
             titleName: 'ToDo list',
-            numberOfItems: 0
         }
     }
 
@@ -21,7 +20,7 @@ class Title extends React.Component {
         return (
             <div className="titlecontainer">
                 <div className="title">{this.state.titleName}</div>
-                <div className="numberOfItems">{this.props.numberOfItems}</div>
+                <div className="numberOfItems">{this.props.itemsNumber}</div>
             </div>
         )
     }
