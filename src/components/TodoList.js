@@ -1,11 +1,9 @@
 import React from 'react';
 import styleList from './TodoList.css';
-import Todo from '../components/Todo.js';
 
 class TodoList extends React.Component {
     constructor (props) {
         super(props);
-
 
         this.state = {
             taskText: ''
@@ -13,14 +11,15 @@ class TodoList extends React.Component {
     }
 
     nameTask (text) {
-        this.setState({taskText: text});
-        console.log(this.state.taskText);
+        this.setState({taskText: text}, function() {
+            this.props.triggerModal(this.state.taskText)
+        });
     }
 
 
     render () {
-        const items = this.props.data.map(Todo =>
-            <li className = {styleList.listItem}>
+        const items = this.props.data.map((Todo) =>
+            <li key={Todo.id} className={styleList.listItem}>
                 <div className = {styleList.itemContainer} onClick = {() => this.nameTask(Todo.text)}>
                     <p className = 'text'>{Todo.text}</p>
                 </div>

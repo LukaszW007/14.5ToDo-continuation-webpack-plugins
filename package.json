@@ -5,7 +5,7 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "NODE_ENV=production webpack",
-    "startdev": "webpack-dev-server --inline --hot --config ./webpack.config.js",
+    "startdev": "webpack-dev-server --open --inline --hot --config ./webpack.config.js",
     "start": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -39,6 +39,7 @@
   "dependencies": {
     "ajv-keywords": "^3.1.0",
     "colors": "^1.1.2",
+    "react-bootstrap": "^0.32.1",
     "uuid": "^3.2.1"
   }
 }

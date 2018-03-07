@@ -3,21 +3,20 @@ import ReactDOM from 'react-dom';
 import App from './containers/App.js';
 import {AppContainer} from 'react-hot-loader';
 
-
-if (module.hot){
-    module.hot.accept('./containers/App',()=>{
-        const NextApp = require('./containers/App').default;
-        ReactDOM.render(
-            <AppContainer>
-                <NextApp />
-            </AppContainer>,
-            document.getElementById('app')
-        );
-    });
+const render = Component => {
+  ReactDOM.render(
+    <AppContainer>
+      <Component />
+    </AppContainer>,
+    document.getElementById('app'),
+  )
 }
-/*
-ReactDOM.render(
-    <App />,
-    document.getElementById('app')
-);
-*/
+
+render(App)
+
+// Webpack Hot Module Replacement API
+if (module.hot) {
+  module.hot.accept('./containers/App.js', () => {
+    render(App)
+  })
+}
