@@ -19,29 +19,16 @@ class Todo extends React.Component {
     }
 
     render () {
-        const popover = (
-            <Popover id = "modal-popover" title = "popover">
-                very popover. such engagement
-            </Popover>
-        );
-        const tooltip = <Tooltip id = "modal-tooltip">wow.</Tooltip>;
-
         return (
             <div>
-                <p>Click to get the full Modal experience!</p>
-
-                <Button bsStyle = "primary" bsSize = "large" onClick = {this.handleShow}>
-                    Launch demo modal
-                </Button>
-
                 <Modal show = {this.state.show} onHide = {this.handleClose}>
                     <Modal.Header closeButton>
                         <Modal.Title>Item of the list</Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
-                        <h4>Text in a modal</h4>
+                        <h4>Your task</h4>
                         <p>
-                            Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
+                            {this.props.taskText}
                         </p>
                         <hr/>
                         }</Modal.Body>
