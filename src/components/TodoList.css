@@ -1,5 +1,6 @@
 .todoList {
     list-style: none;
+    width: 300px;
 }
 
 .listItem {

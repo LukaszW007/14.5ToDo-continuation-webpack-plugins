@@ -1,8 +1,8 @@
 import React from 'react';
-import { Modal, Button } from 'react-bootstrap'
+import {Modal, Button} from 'react-bootstrap'
 
 class Todo extends React.Component {
-    constructor (props) {
+    constructor(props) {
         super(props);
         this.handleShow = this.handleShow.bind(this);
         this.handleClose = this.handleClose.bind(this);
@@ -15,30 +15,31 @@ class Todo extends React.Component {
         this.setState({show: next.showModal});
     }
 
-    handleClose () {
-        this.setState({show: false});
+    handleClose() {
+        this.setState({show: false}, function () {
+            this.props.triggerToChangeShowModal(false)
+        });
+
     }
 
-    handleShow () {
+    handleShow() {
         this.setState({show: true});
     }
 
-    render () {
+    render() {
         return (
             <div>
-                <Modal show = {this.state.show} onHide = {this.handleClose}>
+                <Modal show={this.state.show} onHide={this.handleClose}>
                     <Modal.Header closeButton>
                         <Modal.Title>Item of the list</Modal.Title>
                     </Modal.Header>
                     <Modal.Body>
-                        <h4>Your task</h4>
                         <p>
                             {this.props.taskText}
                         </p>
-                        <hr/>
-                        </Modal.Body>
+                    </Modal.Body>
                     <Modal.Footer>
-                        <Button onClick = {this.handleClose}>Close</Button>
+                        <Button onClick={this.handleClose}>Close</Button>
                     </Modal.Footer>
                 </Modal>
             </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+// import styleTitle from '../components/Title.css';
 
 class Title extends React.Component {
     constructor(props) {
@@ -18,7 +18,8 @@ class Title extends React.Component {
 
     render() {
         return (
-            <div className="titlecontainer">
+            {/*<div className={styleTitle.titleContainer}>*/}
+            <div>
                 <div className="title">{this.state.titleName}</div>
                 <div className="numberOfItems">{this.props.itemsNumber}</div>
             </div>

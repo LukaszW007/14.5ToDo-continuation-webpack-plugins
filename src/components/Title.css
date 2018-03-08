@@ -1,0 +1,9 @@
+.titleContainer{
+    border-bottom: solid 1px;
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+}
+.title{
+
+}
