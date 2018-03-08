@@ -1,4 +1,5 @@
 import React from 'react';
+import { Modal, Button } from 'react-bootstrap'
 
 class Todo extends React.Component {
     constructor (props) {
@@ -8,6 +9,10 @@ class Todo extends React.Component {
         this.state = {
             show: false
         };
+    }
+
+    componentWillReceiveProps(next) {
+        this.setState({show: next.showModal});
     }
 
     handleClose () {
@@ -31,7 +36,7 @@ class Todo extends React.Component {
                             {this.props.taskText}
                         </p>
                         <hr/>
-                        }</Modal.Body>
+                        </Modal.Body>
                     <Modal.Footer>
                         <Button onClick = {this.handleClose}>Close</Button>
                     </Modal.Footer>
