@@ -60,24 +60,30 @@ class App extends React.Component {
     render() {
         return (
             <div className={style.TodoApp}>
-                <Title itemsNumber={this.state.data.length}/>
-                <input type="text" value={this.state.input} onChange={event => this.inputChange(event)}/>
-                <button
-                    className={'addItem'}
-                    onClick={() => {
-                        if (this.state.input) {
-                            this.addTodo(this.state.input)
-                        }
-                        this.setState({input:''})
-                    }
-                    }
-                >Add item
-                </button>
+                <Title className={style.title} itemsNumber={this.state.data.length}/>
+                <div className={style.container}>
+                    <div className={style.inputContainer}>
+                        <input className={style.inputItemName}
+                               type={'text'}
+                               value={this.state.input}
+                               onChange={event => this.inputChange(event)}/>
+                        <button className={style.buttonAddItem}
+                                onClick={() => {
+                                    if (this.state.input) {
+                                        this.addTodo(this.state.input)
+                                    }
+                                    this.setState({input: ''})
+                                }
+                                }
+                        >Add item
+                        </button>
+                    </div>
 
-                <TodoList data={this.state.data} triggerModal={(text) => this.triggerShowModal(text)}
-                          removeTodoItem={id => this.removeTodo(id)}/>
-                <Todo showModal={this.state.showModal} taskText={this.state.text}
-                      triggerToChangeShowModal={(answer) => this.doShowModalFalse(answer)}/>
+                    <TodoList data={this.state.data} triggerModal={(text) => this.triggerShowModal(text)}
+                              removeTodoItem={id => this.removeTodo(id)}/>
+                    <Todo showModal={this.state.showModal} taskText={this.state.text}
+                          triggerToChangeShowModal={(answer) => this.doShowModalFalse(answer)}/>
+                </div>
             </div>
         );
     }

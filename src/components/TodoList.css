@@ -1,11 +1,13 @@
 .todoList {
     list-style: none;
     width: 300px;
+    padding:0;
 }
 
 .listItem {
     display: flex;
     border: solid 1px #000000;
+    margin-bottom: 2px;
 }
 
 .id {
@@ -13,6 +15,7 @@
 }
 
 .itemContainer {
+    padding-left: 10px;
     flex: 9;
 }
 

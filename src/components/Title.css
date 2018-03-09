@@ -3,7 +3,17 @@
     display: flex;
     flex-direction: row;
     font-size: 2em;
-}
+    width: 150px;
+    position: fixed;
+    top: 0;
+    margin: 0 auto;
+ }
 .title{
-
+    flex:6;
+}
+.empty{
+    flex:1;
+}
+.numberOfItems{
+    flex:1;
 }
