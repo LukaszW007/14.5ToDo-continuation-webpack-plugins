@@ -28,11 +28,13 @@ module.exports = {
         path: path.resolve(__dirname, 'build'),
         filename: 'app.bundle.js'
     },
+    devtool:'cheap-module-eval-source-map',
     module: {
         rules: [
             {
                 test: /\.js$/,
                 loader: "babel-loader",
+                exclude:/node_modules/,
                 options: {
                     presets: ['es2015','react'],
                     plugins: ["react-hot-loader/babel"]

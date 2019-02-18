@@ -53,6 +53,7 @@ class App extends React.Component {
     }
 
     removeTodo(id) {
+        debugger;
         const reminder = this.state.data.filter(todo => todo.id !== id);
         this.setState({data: reminder});
     }
